@@ -1,2 +1,2 @@
 # ProjetoAgrinho
-A importância de cuidar do meio hambiente.
+A importância de cuidar do meio ambiente.
